@@ -1,4 +1,6 @@
-
+/* I still am one amateur in area
+learning in progress.
+*/
 package Addition;
  
 //programa de adição que insere os números, então exibe a soma
