@@ -2,7 +2,7 @@
 package Addition;
  
 //programa de adição que insere os números, então exibe a soma
-import java.util.Scanner; //programa utiliza a classe Scanner
+import java.util.*; //programa utiliza a classe Scanner
 
 public class Addition {
 
@@ -23,6 +23,6 @@ public class Addition {
         
         sum = number1 * number2; //soma os números, depois armazena o total em sum
         
-        System.out.printf("Sum is %d%n", sum); //exibe a soma
+        System.out.printf("Sum is: %d%n", sum); //exibe a soma
     }//fim do método main
 }//fim da classe Addittion
